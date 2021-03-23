@@ -29,7 +29,7 @@
 
 <h3 align="center">More info</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=for-the-badge&logo=vimeo&logoColor=white">
+  <img src="https://img.shields.io/badge/-Korean%20Tech%20Blog-11B48A?style=for-the-badge&logo=vimeo&logoColor=white&link=https://velog.io/@jha0402">
 <!--   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/zenoanjh/"> -->
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=jha0402@gmail.com">
 </p>
