@@ -1,7 +1,6 @@
-<h1>Frontend developer</h1>
+<h1 align="center">Frontend developer</h1>
 
 <h3 align="center">💻 STACK 🛠</h3>
-<h4 align="center">Skill sets I've used</h4>
 
 <h4 align="center">Javascript, React, Typescript, Node.js, Liquid</h4>
 <h4 align="center">Next.js, Gatsby, Express.js</h4>
