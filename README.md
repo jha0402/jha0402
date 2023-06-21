@@ -1,14 +1,14 @@
-<h1 align="center">Frontend developer</h1>
+<h1 align="center">Software Engineer</h1>
 
 <h3 align="center">💻 STACK 🛠</h3>
 
 <h4 align="center">Javascript, React, Typescript, Node.js, Liquid</h4>
-<h4 align="center">Next.js, Gatsby, Express.js</h4>
+<h4 align="center">Next.js, Nest.js</h4>
 <h4 align="center">Redux, Recoil</h4>
 <h4 align="center">React-query, Apollo Client, GraphQL</h4>
 <h4 align="center">Tailwind CSS, Emotion, Styled-components, CSS Modules, Less, Sass</h4>
 <h4 align="center">Ant Design, Material UI, AG Grid, Highcharts, Chart.js</h4>
-<h4 align="center">Git, Notion, Slack, Redmine, AWS(S3, EC2, RDS, CloudFront, Route53), Shopify</h4>
+<h4 align="center">Git, Notion, Slack, Redmine, AWS(S3, EC2, RDS, CloudFront, Route53, Amplify), Shopify</h4>
 
 <h3 align="center"> LANGUAGES & CULTURE: 🇲🇽 🇺🇸 🇰🇷</h2>
 
